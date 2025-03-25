@@ -1,0 +1,120 @@
+{
+    "bajos": [
+        {
+            "modelo": "Fender Precision Bass",
+            "tipo_cuerpo": "Precision Bass",
+            "cuerdas": 4,
+            "colores_disponibles": [
+                "Sunburst",
+                "Blanco",
+                "Negro"
+            ],
+            "tiendas_disponibles": [
+                "Madrid",
+                "Barcelona"
+            ],
+            "precio": 1199.99
+        },
+        {
+            "modelo": "Music Man StingRay 5",
+            "tipo_cuerpo": "StingRay",
+            "cuerdas": 5,
+            "colores_disponibles": [
+                "Natural",
+                "Azul",
+                "Rojo"
+            ],
+            "tiendas_disponibles": [
+                "Barcelona"
+            ],
+            "precio": 2199.99
+        },
+        {
+            "modelo": "Ibanez SR305E",
+            "tipo_cuerpo": "SR Series",
+            "cuerdas": 5,
+            "colores_disponibles": [
+                "Rojo",
+                "Verde",
+                "Marrón"
+            ],
+            "tiendas_disponibles": [
+                "Barcelona"
+            ],
+            "precio": 479.99
+        },
+        {
+            "modelo": "Gibson Thunderbird IV",
+            "tipo_cuerpo": "Thunderbird",
+            "cuerdas": 4,
+            "colores_disponibles": [
+                "Negro",
+                "Rojo",
+                "Sunburst"
+            ],
+            "tiendas_disponibles": [
+                "Madrid",
+                "Barcelona"
+            ],
+            "precio": 1799.99
+        }
+    ],
+    "guitarras": [
+        {
+            "modelo": "Fender Stratocaster Player",
+            "tipo_cuerpo": "Stratocaster",
+            "colores_disponibles": [
+                "Sunburst",
+                "Blanco",
+                "Negro"
+            ],
+            "tiendas_disponibles": [
+                "Madrid",
+                "Barcelona"
+            ],
+            "precio": 899.99
+        },
+        {
+            "modelo": "Gibson Les Paul Standard",
+            "tipo_cuerpo": "Les Paul",
+            "colores_disponibles": [
+                "Sunburst",
+                "Blanco",
+                "Marron"
+            ],
+            "tiendas_disponibles": [
+                "Madrid",
+                "Barcelona"
+            ],
+            "precio": 2499.99
+        },
+        {
+            "modelo": "Ibanez RG550",
+            "tipo_cuerpo": "Superstrat",
+            "colores_disponibles": [
+                "Azul",
+                "Rojo",
+                "Verde"
+            ],
+            "tiendas_disponibles": [
+                "Barcelona"
+            ],
+            "precio": 999.99
+        },
+        {
+            "modelo": "Jackson Soloist SL2",
+            "tipo_cuerpo": "Soloist",
+            "colores_disponibles": [
+                "Negro",
+                "Gris",
+                "Blanco"
+            ],
+            "tiendas_disponibles": [
+                "Madrid",
+                "Barcelona"
+            ],
+            "precio": 1399.99
+        }
+    ]
+}
+
